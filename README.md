@@ -6,5 +6,5 @@
 ## 2021
 ### ICML
 + [Learning transferable visual models from natural language supervision](https://arxiv.org/pdf/2103.00020.pdf). Alec Radford, et al. OpenAI. [code](https://github.com/openai/CLIP).
-可以在zero-shot的情况下迁移到下游任务中去。
+  可以在zero-shot的情况下迁移到下游任务中去。
 + wait..
