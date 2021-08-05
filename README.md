@@ -6,5 +6,5 @@
 ## 2021
 ### ICML
 + [Learning transferable visual models from natural language supervision](https://arxiv.org/pdf/2103.00020.pdf). Alec Radford, et al. OpenAI. [code](https://github.com/openai/CLIP).
-    + 可在zero-shot的情况下迁移到下游任务中去。
-    + 从网上收集公开数据，构建大小为0.4亿对的（图像-文本）对数据集。
+    + 在zero-shot的情况下即可迁移到下游任务上。
+    + 通过从网上收集数据，构建了大小为0.4亿的（图像-文本）对数据集。
